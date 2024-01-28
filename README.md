@@ -1,0 +1,1 @@
+This project is created to help people find estates,real estates,rental houses at the comfort of where they are.Without necessarily using brokers.All you need is your phone with  access to Google maps incoporated using Google Maps API's
