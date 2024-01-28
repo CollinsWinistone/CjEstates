@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ceejay.estates.MainActivity">
+
+    <item
+        android:id="@+id/action_home"
+        android:orderInCategory="100"
+        android:icon="@drawable/home"
+        app:showAsAction="always"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/action_network"
+        android:orderInCategory="100"
+        android:icon="@drawable/network"
+        app:showAsAction="always"
+        android:title="Net" />
+
+    <item
+        android:id="@+id/action_location"
+        android:orderInCategory="100"
+        android:icon="@drawable/location"
+        app:showAsAction="always"
+        android:title="Location" />
+
+
+</menu>
